@@ -1,0 +1,120 @@
+genre_id;genre_name
+1;Art & Design
+2;"Art & Design;Pretend Play"
+3;"Art & Design;Creativity"
+4;"Art & Design;Action & Adventure"
+5;Auto & Vehicles
+6;Beauty
+7;Books & Reference
+8;Business
+9;Comics
+10;"Comics;Creativity"
+11;Communication
+12;Dating
+13;"Education;Education"
+14;Education
+15;"Education;Creativity"
+16;"Education;Music & Video"
+17;"Education;Action & Adventure"
+18;"Education;Pretend Play"
+19;"Education;Brain Games"
+20;Entertainment
+21;"Entertainment;Music & Video"
+22;"Entertainment;Brain Games"
+23;"Entertainment;Creativity"
+24;Events
+25;Finance
+26;Food & Drink
+27;Health & Fitness
+28;House & Home
+29;Libraries & Demo
+30;Lifestyle
+31;"Lifestyle;Pretend Play"
+32;"Adventure;Action & Adventure"
+33;Arcade
+34;Casual
+35;Card
+36;"Casual;Pretend Play"
+37;Action
+38;Strategy
+39;Puzzle
+40;Sports
+41;Music
+42;Word
+43;Racing
+44;"Casual;Creativity"
+45;"Casual;Action & Adventure"
+46;Simulation
+47;Adventure
+48;Board
+49;Trivia
+50;Role Playing
+51;"Simulation;Education"
+52;"Action;Action & Adventure"
+53;"Casual;Brain Games"
+54;"Simulation;Action & Adventure"
+55;"Educational;Creativity"
+56;"Puzzle;Brain Games"
+57;"Educational;Education"
+58;"Card;Brain Games"
+59;"Educational;Brain Games"
+60;"Educational;Pretend Play"
+61;"Entertainment;Education"
+62;"Casual;Education"
+63;"Music;Music & Video"
+64;"Racing;Action & Adventure"
+65;"Arcade;Pretend Play"
+66;"Role Playing;Action & Adventure"
+67;"Simulation;Pretend Play"
+68;"Puzzle;Creativity"
+69;"Sports;Action & Adventure"
+70;"Educational;Action & Adventure"
+71;"Arcade;Action & Adventure"
+72;"Entertainment;Action & Adventure"
+73;"Puzzle;Action & Adventure"
+74;"Strategy;Action & Adventure"
+75;"Music & Audio;Music & Video"
+76;"Health & Fitness;Education"
+77;"Adventure;Education"
+78;"Board;Brain Games"
+79;"Board;Action & Adventure"
+80;"Board;Pretend Play"
+81;"Casual;Music & Video"
+82;"Role Playing;Pretend Play"
+83;"Entertainment;Pretend Play"
+84;"Video Players & Editors;Creativity"
+85;"Card;Action & Adventure"
+86;Medical
+87;Social
+88;Shopping
+89;Photography
+90;Travel & Local
+91;"Travel & Local;Action & Adventure"
+92;Tools
+93;"Tools;Education"
+94;Personalization
+95;Productivity
+96;Parenting
+97;"Parenting;Music & Video"
+98;"Parenting;Education"
+99;"Parenting;Brain Games"
+100;Weather
+101;Video Players & Editors
+102;"Video Players & Editors;Music & Video"
+103;News & Magazines
+104;Maps & Navigation
+105;"Health & Fitness;Action & Adventure"
+106;Educational
+107;Casino
+108;"Adventure;Brain Games"
+109;"Trivia;Education"
+110;"Lifestyle;Education"
+111;"Books & Reference;Creativity"
+112;"Books & Reference;Education"
+113;"Puzzle;Education"
+114;"Role Playing;Education"
+115;"Role Playing;Brain Games"
+116;"Strategy;Education"
+117;"Racing;Pretend Play"
+118;"Communication;Creativity"
+119;"Strategy;Creativity"
